@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manufacturers>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="cars.bg">
+    <car model="SLK" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="auto.bg">
+    <car model="Trabant" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="10.10.2014 г. 00:00:00 ч." />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Carrera" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="SLK" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Ferrari Enzo" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Trabant" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Golf" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="E320" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Lada 1500" created-on="" />
+  </manufacturer>
+  <manufacturer name="mobile.bg">
+    <car model="Insignia" created-on="" />
+  </manufacturer>
+</manufacturers>
